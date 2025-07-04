@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm imtiaz</h1>
+<h1 align="center">Hi 👋, I'm 125bit/h1>
 <h3 align="center">A lazy guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123bits&label=Profile%20views&color=0e75b6&style=flat" alt="123bits" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=123bits" alt="123bits" /></a> </p>
 
-- 🔭 I’m currently working on **rdd latte**
+- 🔭 I’m currently working on **latte**
 
 - 🌱 I’m currently learning **cpp , c# , c , py , js , rust , swift**
 
 - ⚡ Fun fact **i am funny.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
